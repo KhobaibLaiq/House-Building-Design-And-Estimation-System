@@ -1,0 +1,13 @@
+.action a{
+    color: black;
+    font-size: large;
+    padding: 3px;
+    
+}
+.action a:hover{
+    color: #fd961a;
+}
+.custom-css{
+    font-weight: 700;
+    color: black;
+}
